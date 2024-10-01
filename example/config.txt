@@ -1,0 +1,2 @@
+Prefix plugins/HTCountData/example/
+Plugin HTCountData inputfile parameters.txt outputfile CD.rds

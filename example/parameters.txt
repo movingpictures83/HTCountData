@@ -1,0 +1,4 @@
+csvfile	simdata.csv
+replicate	replicates.txt
+group1	nde.txt
+group2	de.txt
